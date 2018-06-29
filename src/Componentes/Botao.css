@@ -1,0 +1,8 @@
+buttom{
+    width: 50%;
+    height: 40px;
+    border: none;
+    display: flex;
+    justify-content: space;
+    cursor: pointer;
+}
